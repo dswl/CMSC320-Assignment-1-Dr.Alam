@@ -11,3 +11,8 @@ Answer: A field that data science can be applied to is advertising. For example,
 and be used to draw conclusions. A website could track the number of people that click on a certain ad as opposed to another one for the same product.
 Because of data science, conclusions can be draw about marketing techniques and what works the best for customers.
 
+Q3: What is the difference between merging and rebasing?
+
+Answer: Merging is a nondestructive option of reconnecting branches to the main. Merging reconnects the branch with the main without destroying the history
+of all other existing branches and the main. Rebasing is different because it moves the entire branch to the tip of the main branch. This means that
+it will create new commits for every commit in the branch, thus rewriting the history of the project into one linear path.
