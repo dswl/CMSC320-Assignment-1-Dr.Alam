@@ -16,3 +16,8 @@ Q3: What is the difference between merging and rebasing?
 Answer: Merging is a nondestructive option of reconnecting branches to the main. Merging reconnects the branch with the main without destroying the history
 of all other existing branches and the main. Rebasing is different because it moves the entire branch to the tip of the main branch. This means that
 it will create new commits for every commit in the branch, thus rewriting the history of the project into one linear path.
+
+Q4: What skills do you hope to improve during this course?
+
+Answer: I hope to improve my Python skills, especially with frameworks and technologies that I've never used before like Pandas. I also hope to improve my
+data science methodologies and practices. I also hope to connect with more people in my class and form a meaningful network.
