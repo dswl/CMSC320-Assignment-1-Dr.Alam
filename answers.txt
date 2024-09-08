@@ -1,0 +1,6 @@
+Q1: Why might be consider using git?
+
+Answer: We might consider using git as a form of version control. This way, when we develop programs, we have access to different versions of our codebase as we push changes to it.
+Another reason we might consider using git is because multiple developers can work on the same codebase, making their separate branches and maximizing collaboration on a single working project.
+One final reason we might consider using git is because it provides a way for us to back up our code. This, in case our code becomes inaccessible for whatever reason, it will still be backed on github.
+
